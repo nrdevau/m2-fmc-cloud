@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<scenario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:ece-tools:config/scenario.xsd">
+    <!-- Replace "compile-di" step with own implementation -->
+    <step name="compile-di" type="Nrdev\FmcDeployments\Step\Build\CompileDi" priority="1000"/>
+</scenario>
