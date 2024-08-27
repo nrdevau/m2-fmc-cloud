@@ -1,1 +1,1 @@
-\Magento\MagentoCloud\ExtensionRegistrar::register('Nrdev_FmcDeployments', __DIR__);
+\Magento\MagentoCloud\ExtensionRegistrar::register('Nrdev_FmcCloud', __DIR__);

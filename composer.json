@@ -1,5 +1,5 @@
 {
-    "name": "nrdev/fmc-deployments",
+    "name": "nrdev/fmc-cloud",
     "description": "Extension for ece-tools for FMC",
     "type": "magento2-component",
     "version": "0.0.1",
@@ -7,7 +7,7 @@
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
-            "Nrdev\\FmcDeployments\\": "src/"
+            "Nrdev\\FmcCloud\\": "src/"
         }
     }
 }

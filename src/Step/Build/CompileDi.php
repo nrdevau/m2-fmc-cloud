@@ -1,6 +1,6 @@
 <?php
 
-namespace Nrdev\FmcDeployments\Step\Build;
+namespace Nrdev\FmcCloud\Step\Build;
 
 use Magento\MagentoCloud\App\Error;
 use Magento\MagentoCloud\Config\ConfigException;
