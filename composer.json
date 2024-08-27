@@ -1,5 +1,5 @@
 {
-    "name": "nrdev/fmc-cloud",
+    "name": "nrdev/m2-fmc-cloud",
     "description": "Extension for ece-tools for FMC",
     "type": "magento2-component",
     "version": "0.0.1",
